@@ -151,7 +151,7 @@ const Certificates = () => {
 
             <img
               src={selectedCertificate}
-              alt="Certificate"
+              alt="certificate"
               className="w-full rounded-2xl"
             />
 
