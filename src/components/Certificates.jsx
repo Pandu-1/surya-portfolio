@@ -8,9 +8,9 @@ import {
 
 import React, { useState } from "react";
 
-import certificate1 from "../assets/certificate1.png";
 import certificate2 from "../assets/certificate2.png";
 import certificate3 from "../assets/certificate3.png";
+import certificate4 from "../assets/certificate4.png";
 
 const Certificates = () => {
 
