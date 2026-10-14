@@ -55,8 +55,8 @@ const Contact = () => {
             id: 3,
             icon: FaLinkedin,
             title: 'Linkedin',
-            value: 'https://www.linkedin.com/in/p-surya-7558b9285/',
-            link: 'https://www.linkedin.com/in/p-surya-7558b9285/'
+            value: 'https://www.linkedin.com/in/suryachowdaryy',
+            link: 'https://www.linkedin.com/in/suryachowdaryy'
         },
         {
             id: 4,
